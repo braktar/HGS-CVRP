@@ -1,0 +1,7 @@
+# Compilation relicate
+*.o
+genvrp
+
+# Solution files
+*.sol
+*.sol.PG.csv
